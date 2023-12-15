@@ -1,6 +1,6 @@
 ﻿// Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
 
-namespace FlowRuns.Models
+namespace FlowResponse.Models
 {
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
     using System;
